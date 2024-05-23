@@ -1,0 +1,15 @@
+2024-05-23 16:05:709 INFO  CommonMobileActions:266 - Cloud device selected..
+2024-05-23 16:05:471 INFO  CommonMobileActions:266 - Waiting for element to be visible
+2024-05-23 16:05:463 INFO  CommonMobileActions:266 - i Click on the element Username field
+2024-05-23 16:05:320 INFO  CommonMobileActions:266 - Clicked onUsername field
+2024-05-23 16:05:333 INFO  CommonMobileActions:266 - Waiting for element to be visible
+2024-05-23 16:05:297 INFO  CommonMobileActions:266 - i Click on the element Password field
+2024-05-23 16:05:162 INFO  CommonMobileActions:266 - Clicked onPassword field
+2024-05-23 16:05:163 INFO  CommonMobileActions:266 - Waiting for element to be visible
+2024-05-23 16:05:66 INFO  CommonMobileActions:266 - i Click on the element Login button
+2024-05-23 16:05:117 INFO  CommonMobileActions:266 - Waiting for element to be visible
+2024-05-23 16:05:705 INFO  CommonMobileActions:266 - Waiting for element to be visible
+2024-05-23 16:05:240 INFO  CommonMobileActions:266 - i Click on the element Menu
+2024-05-23 16:05:242 INFO  CommonMobileActions:266 - Waiting for element to be visible
+2024-05-23 16:05:346 INFO  CommonMobileActions:266 - i Click on the element clicked on button LOGOUT
+2024-05-23 16:05:348 INFO  CommonMobileActions:266 - Validating the logout functionality is passed
